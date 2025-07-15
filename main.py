@@ -3,6 +3,7 @@ main.py
 
 • Principalmente se encarga de llamar a las funciones de otros modulos. 
 • Tambien se encarga de iniciar y cerrar el log.
+• La funcion menu_principal me trae la opcion elegida por el usuario, y de aqui la derivo al modulo correspondiente.
 
 """
 #Modulos
