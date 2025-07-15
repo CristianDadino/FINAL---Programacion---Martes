@@ -1,6 +1,7 @@
 # 🎮 Nubecillas de Calderilla
 
 Un juego de consola por turnos donde jugadores intentan recolectar monedas sin chocar entre ellos.
+(Lo base en el juego "Nubecillas de Calderilla" de Mario Party Jamboree)
 
 📦 Estructura:
 
